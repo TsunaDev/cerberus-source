@@ -1,5 +1,8 @@
 In this section, you will find information on test execution in Cerberus.
 
+First, you need to check that the parameter cerberus_url is set on the url leading to the context root of your Cerberus App 
+(for example : http://localhost:8080/Cerberus)
+
 image:runtestselection.png[RunTestSelection]
 
 image:runrobotsettings.png[RunRobotSettings]
